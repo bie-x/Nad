@@ -15,7 +15,7 @@ body {
 }
 
 .paper {
-  background-image: url("https://www.transparentpng.com/thumb/heart/heart-free-download-21.png");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYW8P4q0FzCGU-gs9qrgTcFlgd2Hkf9g3JA&s");
   background-size: 500px;
   background-position: center center;
   padding: 20px 100px;
@@ -50,7 +50,7 @@ img {
 
 .paper.heart::after {
   content: "";
-  background-image: url('https://cdn.pixabay.com/photo/2016/03/31/19/25/cartoon-1294994__340.png');
+  background-image: url('https://www.transparentpng.com/thumb/heart/heart-free-download-21.png');
   width: 100%;
   height: 100%;
   position: absolute;
